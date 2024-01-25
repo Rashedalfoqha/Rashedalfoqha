@@ -36,10 +36,7 @@
 <a href="https://www.mongodb.com/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"style="float: left; margin-right: 25px;margin-top: 25px;" alt="MongoDB" height="100" width="100" />
 </a>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
  <!-- 👨‍💻 All of my projects are available at [sss](https://rahuldkjain.github.io/gh-profile-readme-gener##-ator/) -->
-
-
 
 ## 
 
