@@ -1,4 +1,5 @@
 ## Hello My GitHub 👋
+
 <div style="display:flex;" >
 
 ### <p style="text-align:left">Hello, I'm Rashed, a Full Stack developer in web development.I aim to apply and expand my recently acquired skills in building innovative applications and websites.</p>
@@ -6,8 +7,8 @@
 <img src="https://media.giphy.com/media/q8ld8Sk7WWyY0/giphy.gif"
      alt="Markdown Monster icon"
      style="float: right; margin-left: 25px;" width="1100"  />
-</div>
 
+</div>
 
 ## Languages and Tools
 
@@ -38,11 +39,11 @@
 </a>
  <!-- 👨‍💻 All of my projects are available at [sss](https://rahuldkjain.github.io/gh-profile-readme-gener##-ator/) -->
 
-## 
+##
 
-<div align="center">
+<div  style="margin:10;width:400 ;float:left" >
   <a href="#">
-<img src="https://streak-stats.demolab.com/?user=Rashedalfoqha" alt="g3root stats card" style="margin:10;width:400 ;float:left" />
+<img src="https://streak-stats.demolab.com/?user=Rashedalfoqha" alt="g3root stats card"  />
 </a>
 
 </div>
