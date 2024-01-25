@@ -42,7 +42,7 @@
 
 <div align="center">
   <a href="#">
-<img src="https://streak-stats.demolab.com/?user=Rashedalfoqha" alt="g3root stats card" />
+<img src="https://streak-stats.demolab.com/?user=Rashedalfoqha" alt="g3root stats card" style="float: left;/>
 </a>
 
 </div>
