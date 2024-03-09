@@ -36,6 +36,15 @@
 </a>
 <a href="https://www.mongodb.com/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"style="float: left; margin-right: 25px;margin-top: 25px;" alt="MongoDB" height="100" width="100" style="margin:10" />
+</a><br/>
+<a href="https://redux.js.org/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo-title-light.png"style="float: left; margin-right: 25px;margin-top: 25px;" alt="MongoDB" height="100" width="150" style="margin:10" />
+</a>
+<a href="https://www.elephantsql.com/" target="blank">
+<img align="center" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png"style="float: left; margin-right: 25px;margin-top: 25px;" alt="MongoDB" height="100" width="100" style="margin:10" />
+</a>
+<a href="https://tailwindcss.com/resources" target="blank">
+<img align="center" src="https://i.ibb.co/dtz8hnp/tailwind-css-1024x615.png"style="float: left; margin-right: 25px;margin-top: 25px;" alt="MongoDB" height="100" width="150" style="margin:10" />
 </a>
  <!-- 👨‍💻 All of my projects are available at [sss](https://rahuldkjain.github.io/gh-profile-readme-gener##-ator/) -->
 
