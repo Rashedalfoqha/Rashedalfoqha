@@ -39,7 +39,7 @@ My path into software began with a degree in **Islamic Arts and ornamental archi
 | **02 · Tickln** | What should a task communicate before anyone opens it? | Ticket flows, PostgreSQL roles, Socket.IO updates | [Public repository](https://github.com/Not2Null/NotNullBoards) |
 | **03 · NotNull Social Space** | How do many small interactions still feel like one place? | Publishing, social relationships, notifications, real-time chat | [Public repository](https://github.com/not6null/NotNull) |
 | **04 · RA Job Search** | How quickly can a crowded list become a useful shortlist? | Searchable listings, protected actions, JWT, MongoDB | [Public repository](https://github.com/C9-Rashedalfoqha/RA-Job) |
-| **05 · Course Management** | What changes when one product serves two roles? | Teacher/student journeys, course flows, favorites, PostgreSQL | [Public repository](https://github.com/Rashedalfoqha/managementCourses) |
+| **05 · Course Management System** | What changes when one product serves two roles? | Teacher/student journeys, course flows, favorites, PostgreSQL | [Public repository](https://github.com/Rashedalfoqha/managementCourses) |
 
 No invented metrics. The evidence above reflects what can be verified or responsibly described.
 
